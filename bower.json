@@ -1,0 +1,9 @@
+{
+    "name": "pattern-library",
+    "version": "1.0.0",
+    "dependencies": {
+        "requirejs-bower": "2.1.9",
+        "susy": "latest",
+        "breakpoint-sass": "latest"
+    }
+}
